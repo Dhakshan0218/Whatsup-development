@@ -14,3 +14,7 @@ Author:dhakshan
 
 5.hiding the last seen
 
+6.adding the audio feature
+
+7.adding the video feature
+
