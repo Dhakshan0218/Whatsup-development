@@ -10,5 +10,7 @@ Author:dhakshan
 
 3.last seen code
 
+4.attach(image,doc)
 
-4.attach(image,doc)code
+5.hiding the last seen
+
